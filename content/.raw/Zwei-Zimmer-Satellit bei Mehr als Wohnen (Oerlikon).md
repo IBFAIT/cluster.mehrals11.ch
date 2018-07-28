@@ -1,12 +1,12 @@
 # Zwei-Zimmer-Satellit bei Mehr als Wohnen (Oerlikon)
 
-In unserer 352m²-Cluster-Wohnung am Dialogweg 6 wird per 1.10.2018 ein Zwei-Zimmer-Cluster frei. Aufgrund der Vorgaben der Baugenossenschaft Mehr als Wohnen, muss er von zwei Personen bewohnt werden. 
+In unserer 352m²-Cluster-Wohnung am Dialogweg 6 wird per 1.10.2018 ein Zwei-Zimmer-Satellit frei. Aufgrund der Vorgaben der Baugenossenschaft Mehr als Wohnen, muss er von zwei Personen bewohnt werden. 
 
-Die beiden, freien Zimmer sind rund 25m² und 19m² gross und liegen im südöstlichen Cluster¹ mit eignem Bad und einer Teeküche im Eingangsbereich. 
+Die beiden freien Zimmer sind rund 25m² und 19m² gross und liegen im südöstlichen Satelliten¹ mit eignem Bad und einer Teeküche im Eingangsbereich. 
 
 ## Die Wohnung.
 
-Die Wohnung ist total 352m² gross und beherbergt fünf Cluster mit je eigenem Bad und einer Teeküche und einer Gemeinschaftsfläche mit riesigem Wohnzimmer mit Wohnküche, gemeinschaftlichem Büro und einem Gästezimmer mit gemeinschaftlichem Badezimmer mit Badewanne.
+Die Wohnung ist total 352m² gross und beherbergt fünf Satelliten mit je eigenem Bad und einer Teeküche und einer Gemeinschaftsfläche mit riesigem Wohnzimmer mit Wohnküche, gemeinschaftlichem Büro und einem Gästezimmer mit gemeinschaftlichem Badezimmer mit Badewanne.
 
 Weil wir uns gegenüber der Genossenschaft der Verdichtung von Wohnraum verpflichtet haben, muss sie von mindestens sieben Personen bewohnt werden. 
 
@@ -14,7 +14,7 @@ Weil wir uns gegenüber der Genossenschaft der Verdichtung von Wohnraum verpflic
 
 Die ganze 10½-Zimmer Wohnung kostet uns rund Fr. 7‘100.-, die wir uns als Verein² Mehr als 11 teilen. Zudem steuern wir der Genossenschaft ein Anteilskapital vom total Fr. 81‘000.- bei. 
 
-Der momentan freie Cluster kostet monatlich total Fr. 1853.~, wobei das grössere Zimmer nach unserem fairen Verteilschlüssel³ mit Fr. 992.45 zu Buche schlägt, das kleinere mit Fr. 860.23. Inbegriffen sind die Miete und Nebenkosten für Heizung und so.
+Der momentan freie Satellit kostet monatlich total Fr. 1853.~, wobei das grössere Zimmer nach unserem fairen Verteilschlüssel³ mit Fr. 992.45 zu Buche schlägt, das kleinere mit Fr. 860.23. Inbegriffen sind die Miete und Nebenkosten für Heizung und so.
 
 Dazu kommen monatlich noch Zahlungen für unsere lieben Putzfeen, Internet und Co. vom monatlich Fr. 50.- pro Kopf und eine Einzahlung in unserem Mobiliarfonds von Fr. 30.- pro Kopf und Monat.
 
@@ -52,6 +52,6 @@ In unmittelbarer Nähe befinden sich der Bahnhof und das Hallenbad Oerlikon, das
 
 # Fussnoten
 
-¹ {Was ist ein Cluster?}  
+¹ {Was ist ein Satellit?}  
 ² {Weshalb ein Verein?}  
 ³ {Wie funktioniert unser Verteilschlüssel?}
